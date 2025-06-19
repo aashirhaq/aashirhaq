@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Aashir ul Haque
 
-I'm a Senior Software Engineer with 6+ years of experience in scalable backend systems, REST APIs, cloud infrastructure, and payment integrations.
+I'm a Senior Software Engineer with 6+ years of experience in backend systems, RESTful APIs, cloud infrastructure, and scalable architectures. I specialize in Laravel, Node.js, AWS, and CI/CD automation.
 
 ---
 
@@ -16,5 +16,5 @@ I'm a Senior Software Engineer with 6+ years of experience in scalable backend s
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashirhaque)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashirhaque)  
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:contact@aashirhaq.com)
