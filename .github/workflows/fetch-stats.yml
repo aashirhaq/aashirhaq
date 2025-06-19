@@ -1,0 +1,28 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every 24 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download GitHub Stats SVG
+        run: |
+          mkdir -p generated
+          curl -s "https://github-readme-stats-8zws0pate.vercel.app/api?username=aashirhaq&show_icons=true&count_private=true&theme=radical" -o generated/stats.svg
+          curl -s "https://github-readme-stats-8zws0pate.vercel.app/api/top-langs/?username=aashirhaq&layout=compact&theme=gruvbox" -o generated/langs.svg
+          curl -s "https://github-readme-streak-stats.herokuapp.com?user=aashirhaq&theme=highcontrast" -o generated/streak.svg
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "aashirhaq"
+          git config user.email "github-actions@github.com"
+          git add generated/*.svg
+          git commit -m "📊 Update stats SVGs" || echo "No changes"
+          git push
