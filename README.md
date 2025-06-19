@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Muhammad Aashir ul Haque
 
-I'm a Senior Software Engineer with 6+ years of experience in backend systems, RESTful APIs, cloud infrastructure, and scalable architectures. I specialize in Laravel, Node.js, AWS, and CI/CD automation.
+I'm a Senior Software Engineer with 6+ years of experience in building scalable backend systems, RESTful APIs, cloud infrastructure, and payment integrations. I specialize in Laravel, Node.js, AWS, and CI/CD automation.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Aashir's GitHub Stats](https://github-readme-stats-8zws0pate.vercel.app/api?username=aashirhaq&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](generated/stats.svg)
 
-![Top Languages](https://github-readme-stats-8zws0pate.vercel.app/api/top-langs/?username=aashirhaq&layout=compact&theme=gruvbox)
+![Top Languages](generated/langs.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aashirhaq&theme=highcontrast)
+![GitHub Streak](generated/streak.svg)
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aashirhaq)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:aashirulhaque@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashirhaque)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:aashirhaqulhaque@gmail.com)
