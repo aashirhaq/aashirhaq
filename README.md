@@ -6,9 +6,9 @@ I'm a Senior Software Engineer with 6+ years of experience in backend systems, R
 
 ### 📊 GitHub Stats
 
-![Aashir's GitHub Stats](https://github-readme-stats-3fzpyo6qc.vercel.app/api?username=aashirhaq&show_icons=true&count_private=true&theme=radical)
+![Aashir's GitHub Stats](https://github-readme-stats-8zws0pate.vercel.app/api?username=aashirhaq&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-3fzpyo6qc.vercel.app/api/top-langs/?username=aashirhaq&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats-8zws0pate.vercel.app/api/top-langs/?username=aashirhaq&layout=compact&theme=gruvbox)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aashirhaq&theme=highcontrast)
 
