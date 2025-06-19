@@ -16,5 +16,5 @@ I'm a Senior Software Engineer with 6+ years of experience in backend systems, R
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashirhaque)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:contact@aashirhaq.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aashirhaq)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:aashirulhaque@gmail.com)
