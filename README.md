@@ -1,13 +1,8 @@
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h1>👋 Hi, I'm Muhammad Aashir ul Haque</h1>
-    </td>
-    <td align="right" width="200">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq.aashirhaq" alt="Visitor Badge" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div></div>
+  <h1 align="center" style="flex: 1; margin: 0;">👋 Hi, I'm Muhammad Aashir ul Haque</h1>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
+</div>
 
 <h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
