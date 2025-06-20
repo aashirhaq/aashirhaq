@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hi, I'm Muhammad Aashir ul Haque</h1>
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h1>👋 Hi, I'm Muhammad Aashir ul Haque</h1>
+    </td>
+    <td align="right" width="200">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq.aashirhaq" alt="Visitor Badge" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
