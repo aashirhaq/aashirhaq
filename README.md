@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi, I'm Muhammad Aashir ul Haque</h1>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
+</p>
+
 <h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
 <p align="center">
   <em>6+ years of experience in developing scalable backend systems, designing RESTful APIs, implementing CI/CD pipelines, and managing cloud infrastructure.</em>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
 </p>
 
 ---
