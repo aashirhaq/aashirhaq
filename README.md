@@ -1,18 +1,38 @@
-# 👋 Hi, I'm Muhammad Aashir ul Haque
+<h1 align="center">👋 Hi, I'm Muhammad Aashir ul Haque</h1>
+<h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
-I'm a Senior Software Engineer with 6+ years of experience in building scalable backend systems, RESTful APIs, cloud infrastructure, and payment integrations. I specialize in Laravel, Node.js, AWS, and CI/CD automation.
+<p align="center">
+  <em>6+ years of experience in developing scalable backend systems, designing RESTful APIs, implementing CI/CD pipelines, and managing cloud infrastructure.</em>
+</p>
 
 ---
 
+### 🧰 Tech Expertise
 
-### 📊 GitHub Metrics
+- **Languages:** PHP · JavaScript · TypeScript · SQL · C# (basic)  
+- **Frameworks:** Laravel · Slim · Lumen · Node.js (Express.js, NestJS)  
+- **Frontend:** React (Next.js) · HTML · CSS · Bootstrap · jQuery · AJAX  
+- **Databases & Caching:** MySQL · MongoDB · Redis · Elasticsearch · Firebase  
+- **Cloud & DevOps:** AWS (EC2, RDS, S3, OpenSearch, ElasticCache, SNS, SQS) · Firebase · Jenkins · GitHub Actions  
+- **Payments:** CyberSource · Stripe · RAAST · PayFast  
 
-<img src="./metrics.svg" alt="GitHub Metrics" />
+---
 
+### 📈 GitHub Metrics
 
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" width="90%" />
+</p>
 
-### 🔗 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashirhaque)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:aashirhaqulhaque@gmail.com)
+### 📫 Connect with Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/aashirhaque">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aashirhaqulhaque@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
