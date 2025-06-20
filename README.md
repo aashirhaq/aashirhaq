@@ -1,8 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <h1 align="center" style="flex: 1; margin: 0;">👋 Hi, I'm Muhammad Aashir ul Haque</h1>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
-</div>
+<h1 align="center">
+  👋 Hi, I'm Muhammad Aashir ul Haque
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
+</h1>
 
 <h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
