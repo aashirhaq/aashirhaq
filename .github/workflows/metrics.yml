@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day
+    - cron: "0 5 * * *" # Every day at 12:00 AM America/Chicago
   workflow_dispatch:
 
 jobs:
@@ -16,10 +16,10 @@ jobs:
           user: aashirhaq
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Karachi
+          config_timezone: America/Chicago
           config_order: base.header, base.activity, base.community, base.repositories, base.metadata
 
-          # 👇 Add these graphical/statistical plugins
+          # Plugins
           plugin_lines: yes
           plugin_achievements: yes
           plugin_isocalendar: yes
