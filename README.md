@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@aashirhaq?theme=rule34" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aashirhaq" alt="Visitor Badge" />
 </p>
 
 ---
