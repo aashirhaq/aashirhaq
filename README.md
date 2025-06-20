@@ -5,6 +5,10 @@
   <em>6+ years of experience in developing scalable backend systems, designing RESTful APIs, implementing CI/CD pipelines, and managing cloud infrastructure.</em>
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@aashirhaq?theme=rule34" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🧰 Tech Expertise
@@ -13,7 +17,7 @@
 - **Frameworks:** Laravel · Slim · Lumen · Node.js (Express.js, NestJS)  
 - **Frontend:** React (Next.js) · HTML · CSS · Bootstrap · jQuery · AJAX  
 - **Databases & Caching:** MySQL · MongoDB · Redis · Elasticsearch · Firebase  
-- **Cloud & DevOps:** AWS (EC2, RDS, S3, OpenSearch, ElasticCache, SNS, SQS) · Firebase · Jenkins · GitHub Actions  
+- **Cloud & DevOps:** AWS (EC2, RDS, S3, OpenSearch, ElasticCache, SNS, SQS) · Firebase · CI/CD · Jenkins  
 - **Payments:** CyberSource · Stripe · RAAST · PayFast  
 
 ---
