@@ -25,7 +25,7 @@
 ### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="70%" />
+  <img src="./metrics.svg" alt="GitHub Metrics" width="60%" />
 </p>
 
 ---
