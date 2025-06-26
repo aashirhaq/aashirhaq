@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-**Senior Software Engineer** with **6+ years** of experience building scalable, cloud-native systems. Specialized in **backend architecture**, **API optimization**, and **microservices** serving **20M+ users**. Currently based in **Glen Ellyn, IL** 🇺🇸
+**Senior Software Engineer** with **6+ years** of experience building scalable, cloud-native systems. Specialized in **backend architecture**, **API optimization**, and **microservices** serving **20M+ users**.
 
 - 🔭 **Currently:** Building high-performance backend systems at Golootlo
 - 🌱 **Learning:** Advanced cloud architectures and distributed systems
 - 👯 **Open to:** Collaborating on scalable backend projects and open source
-- 💬 **Ask me about:** Laravel, Node.js, AWS, Payment Systems, API Design
+- 💬 **Ask me about:** Laravel, API Design, Payment Systems, Node.js, AWS
 - ⚡ **Fun fact:** I've optimized systems handling 60K+ concurrent users!
 
 ---
@@ -43,18 +43,18 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Frontend & Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Databases & Caching**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### **Cloud & DevOps**
@@ -64,8 +64,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Payment & Integration**
+![RAAST](https://img.shields.io/badge/RAAST-009688?style=for-the-badge&logo=bank&logoColor=white)
+![1LINK](https://img.shields.io/badge/1LINK-005cb9?style=for-the-badge&logo=linktree&logoColor=white)
+![CyberSource](https://img.shields.io/badge/CyberSource-1A1F71?style=for-the-badge&logo=visa&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ---
 
@@ -96,7 +98,7 @@
 |:---:|:---:|:---:|
 | 🚀 **Scale** | 20M+ Users Served | Laravel, Node.js, AWS |
 | ⚡ **Performance** | 30% API Speed Boost | Redis Caching Strategy |
-| 💰 **Transactions** | 35K+ Daily Payments | CyberSource, Stripe, RAAST |
+| 💰 **Transactions** | 35K+ Daily Payments | CyberSource, Local Gateways, RAAST, 1Link |
 | 🔄 **Reliability** | 99.9% Uptime | AWS SQS/SNS, ELK Stack |
 | 👥 **Leadership** | 10+ Developers Mentored | Team Productivity +30% |
 | 📊 **Monitoring** | 5M+ Monthly Logs | ELK Stack Implementation |
@@ -149,7 +151,7 @@
 
 - 🎓 **MS Computer Science** - NED University of Engineering (2021-2022)
 - 🎓 **BS Computer Science** - University of Karachi (2015-2018)
-- 🇺🇸 **U.S. Permanent Resident** - Glen Ellyn, Illinois
+- <img src="https://flagcdn.com/w40/us.png" alt="US Flag" width="20" style="vertical-align:middle;"/> <strong>U.S. Permanent Resident</strong> – Glen Ellyn, Illinois
 - 🏆 **6+ Years Professional Experience**
 
 ---
