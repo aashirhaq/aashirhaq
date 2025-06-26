@@ -73,9 +73,6 @@
 
 ## 📊 Complete GitHub Stats (Private + Public)
 
-<!-- 🚨 REPLACE THESE URLs WITH YOUR DEPLOYED INSTANCE 🚨 -->
-<!-- After deploying your own instance, replace 'YOUR-DEPLOYED-URL' with your actual Vercel URL -->
-
 <div align="center">
   <img src="https://github-readme-stats-six-silk-90.vercel.app/api?username=aashirhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="Complete GitHub Stats" />
 </div>
@@ -162,16 +159,71 @@ I'm passionate about **scalable backend systems**, **cloud architecture**, and *
 
 <div align="center">
   
-**"Scalability is not just about handling more users; it's about building systems that grow gracefully with your ambitions."** 🚀
+**"Every API I build today becomes the foundation for tomorrow's innovations"** 🚀
 
 ---
 
-*Building the future, one API at a time* ⚡
+*Connecting systems, enabling possibilities, scaling dreams* ✨
 
 </div>
 
 ---
 
+<!-- Enhanced Footer with Multiple Styles -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff" alt="Footer" />
+
+### 🌟 Thanks for visiting my profile! 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&section=footer" alt="Divider" />
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://github.com/aashirhaq.png" width="100" style="border-radius: 50%;" alt="Profile Picture"/>
+  <br/>
+  <strong>Muhammad Aashir</strong>
+  <br/>
+  <em>Senior Software Engineer</em>
+</td>
+<td align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/>
+  <br/>
+  <strong>Let's Connect!</strong>
+  <br/>
+  <em>Always open to collaborate</em>
+</td>
+<td align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Coding"/>
+  <br/>
+  <strong>Keep Coding!</strong>
+  <br/>
+  <em>Building the future</em>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:667eea&height=2&section=footer" alt="Divider" />
+
+<details>
+<summary>🎯 <strong>Quick Stats</strong></summary>
+<br/>
+
+\`\`\`
+👨‍💻 6+ Years Experience
+🏢 Senior Software Engineer at Golootlo
+🌍 Based in Glen Ellyn, Illinois, USA
+🚀 20M+ Users Served
+⚡ 60K+ Peak Concurrency Handled
+💰 35K+ Daily Transactions Processed
+\`\`\`
+
+</details>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!;Feel+free+to+explore+my+repositories;Let's+build+something+amazing+together!" alt="Footer Typing" />
+
+<br/>
+
 </div>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=424242&animation=twinkling" alt="Footer Wave" />
