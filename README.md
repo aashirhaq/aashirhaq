@@ -15,7 +15,7 @@
 - 🔭 **Currently:** Building high-performance backend systems at Golootlo
 - 🌱 **Learning:** Advanced cloud architectures and distributed systems
 - 👯 **Open to:** Collaborating on scalable backend projects and open source
-- 💬 **Ask me about:** Laravel, API Design, Payment Systems, Node.js, AWS
+- 💬 **Ask me about:** Laravel, API Design, Payment Systems, Node.js, AWS, FastAPI
 - ⚡ **Fun fact:** I've optimized systems handling 60K+ concurrent users!
 
 ---
@@ -38,6 +38,8 @@
 ### **Backend & APIs**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -62,6 +64,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Unit Testing**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### **Payment & Integration**
 ![RAAST](https://img.shields.io/badge/RAAST-009688?style=for-the-badge&logo=bank&logoColor=white)
@@ -93,7 +98,7 @@
 
 | **Metric** | **Achievement** | **Technology** |
 |:---:|:---:|:---:|
-| 🚀 **Scale** | 20M+ Users Served | Laravel, Node.js, AWS |
+| 🚀 **Scale** | 20M+ Users Served | Laravel, Node.js, FastAPI, AWS |
 | ⚡ **Performance** | 30% API Speed Boost | Redis Caching Strategy |
 | 💰 **Transactions** | 35K+ Daily Payments | CyberSource, Local Gateways, RAAST, 1Link |
 | 🔄 **Reliability** | 99.9% Uptime | AWS SQS/SNS, ELK Stack |
@@ -148,6 +153,7 @@
 
 - 🎓 **MS Computer Science** - NED University of Engineering (2021-2022)
 - 🎓 **BS Computer Science** - University of Karachi (2015-2018)
+- 🚀 **FastAPI - The Complete Course 2025 (Beginner + Advanced)** - Udemy (2025)
 - <img src="https://flagcdn.com/w40/us.png" alt="US Flag" width="20" style="vertical-align:middle;"/> <strong>U.S. Permanent Resident</strong> – Glen Ellyn, Illinois
 - 🏆 **6+ Years Professional Experience**
 
