@@ -12,7 +12,7 @@
 
 **Senior Software Engineer** with **6+ years** of experience building scalable, cloud-native systems. Specialized in **backend architecture**, **API optimization**, and **microservices** serving **20M+ users**.
 
-- 🔭 **Currently:** Software Engineer at **ZAKIANT Technologies** — Aurora, IL, USA
+- 🔭 **Currently:** Junior AI Engineer at **Stats AI**
 - 🌱 **Learning:** Advanced AWS architecture, AI integration, and distributed systems
 - 👯 **Open to:** Collaborating on scalable backend projects and open source
 - 💬 **Ask me about:** Laravel, Node.js, NestJS, API Design, Payment Systems, AWS
@@ -133,10 +133,6 @@
 - **Tech:** Laravel, Node.js, NestJS, AWS (SQS, SNS, ElastiCache, OpenSearch), Redis, ELK Stack
 - **Impact:** Built subscription billing for 35K+ daily transactions across 10+ payment gateways
 
-### 🛒 **E-Commerce Platform** — *ZAKIANT Technologies*
-- **Tech:** Laravel, NestJS, MySQL, Stripe, CyberSource
-- **Impact:** Architected RESTful microservices with event-driven async order processing and webhook-based payment handling
-
 ### 💼 **Your Rewards** — *Freelance Project*
 - **Scale:** 500+ partner deals, 10K+ employee interactions
 - **Tech:** Laravel, MySQL, Elasticsearch
@@ -228,7 +224,7 @@ I'm passionate about **scalable backend systems**, **cloud architecture**, **AI-
 
 ```
 👨‍💻 6+ Years Experience
-🏢 Software Engineer at ZAKIANT Technologies — Aurora, IL
+🏢 Junior AI Engineer at Stats AI
 🌍 Based in Glen Ellyn, Illinois, USA
 🚀 20M+ Users Served
 ⚡ 60K+ Peak Concurrency Handled
