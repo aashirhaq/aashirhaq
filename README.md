@@ -1,37 +1,14 @@
-# Aashir Haque
-**Senior Software Engineer · Backend Systems & Agentic AI**
+<img src="profile-overview.png" width="100%" alt="Aashir Haque, senior software engineer in backend systems and agentic AI. 6+ years, Chicago area. Golootlo production scale: 35K+ daily subscription transactions, 500K+ monthly background jobs, 60K+ peak concurrent users.">
 
-I build payment services, search APIs, and AI workflows. At Golootlo I designed a shared payment service for one-time charges and subscriptions. At Stats AI I build retrieval and inference pipelines for review data.
+<a href="https://github.com/aashirhaq#js-contribution-activity-description"><img src="github-activity.png" width="100%" alt="GitHub activity, year ending November 9, 2026. 1,238 contributions across 66 repositories. 88% commits and 12% pull requests."></a>
 
-Glen Ellyn, Illinois · Authorized to work in the U.S. without sponsorship  
-[Portfolio](https://aashirhaq.github.io/) · [LinkedIn](https://www.linkedin.com/in/aashirhaq/) · [Email](mailto:aashirulhaque@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aashirhaq/) · [Email](mailto:aashirulhaque@gmail.com) · [Agent walkthrough](https://www.linkedin.com/in/aashirhaq/details/featured/)
 
-## Production dashboard · Golootlo
+<p><a href="https://aashirhaq.github.io/projects/payment-orchestration/"><img src="project-payments.png" width="49%" alt="Payment orchestration · 10+ gateways"></a>
+<a href="https://www.youtube.com/@LittleMuslimsCorner"><img src="project-studio.png" width="49%" alt="Little Ummah Studio · Watch the series"></a></p>
 
-| Payments | Search | Distributed systems |
-|:---|:---|:---|
-| **35K+** daily subscription transactions | **50+** customer-facing APIs | **500K+** monthly background jobs |
-| **10+** gateways behind one service | **50%** lower database load after caching and query optimization | **60K+** peak concurrent users across the platform |
+<p><a href="https://github.com/aashirhaq/job-hunter"><img src="project-jobs.png" width="49%" alt="Job Hunter · AWS Lambda and Bedrock"></a>
+<a href="https://github.com/aashirhaq/steam-review-sentiment"><img src="project-reviews.png" width="49%" alt="Steam review sentiment · Batch inference"></a></p>
 
-I integrated Google Pay through CyberSource and worked with QA and finance to verify checkout and reconcile transactions before launch. For search, I moved reads to Elasticsearch and kept the index in sync with MySQL. [Read the payment architecture case study →](https://aashirhaq.github.io/projects/payment-orchestration/)
-
-## Engineering projects
-
-| System | Engineering decision | Explore |
-|:---|:---|:---|
-| **Job Hunter** · AWS | A scheduled Lambda workflow scores listings with Bedrock and falls back to weighted keywords when model scoring fails. | [Source](https://github.com/aashirhaq/job-hunter) |
-| **Steam Review Sentiment** · Python | Daily batch inference scores reviews across five games. Streamlit reads a JSON report, keeping the roughly 260 MB model out of the web process. | [Source](https://github.com/aashirhaq/steam-review-sentiment) |
-| **Multimodal Image Search** · Team contribution | I updated the vector-search integration and added fallbacks for generated summaries in a CLIP and Qdrant application. | [Public fork](https://github.com/aashirhaq/streamlit_image_search_db) |
-| **Little Ummah Studio** · Local AI | Scene and dialogue checks identify failed takes. The pipeline uses the failure reason to adjust the next attempt, caps retries, and routes the episode for human review. | [Walkthrough](https://www.linkedin.com/in/aashirhaq/details/featured/) · [Series](https://www.youtube.com/@LittleMuslimsCorner) |
-
-### Agent reliability
-
-In an operations workflow I built, the model drafts a request, application code enforces policy, and a reviewer approves the exact version that can execute. In a separate publishing workflow, the system records completed steps so retries can resume after a partial failure.
-
-## GitHub activity
-
-**1,238 contributions** in the preceding year as of November 8, 2026. The contribution calendar below shows the current count.
-
-**Backend** · PHP/Laravel, Node.js/NestJS, Python/FastAPI  
-**Data and infrastructure** · MySQL, Redis, Elasticsearch/OpenSearch, AWS SQS and SNS  
-**AI engineering** · PyTorch, Hugging Face Transformers, Amazon Bedrock, CLIP, Qdrant
+<p><a href="https://github.com/aashirhaq/streamlit_image_search_db"><img src="project-search.png" width="49%" alt="Multimodal image search · Public fork"></a>
+<a href="https://aashirhaq.github.io/"><img src="project-portfolio.png" width="49%" alt="Engineering portfolio · Case studies"></a></p>
