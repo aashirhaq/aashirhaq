@@ -8,6 +8,8 @@
 
 <a href="https://github.com/aashirhaq#js-contribution-activity-description"><img src="github-activity.png" width="100%" alt="GitHub activity, year ending November 9, 2026. 1,238 contributions across 66 repositories. 88% commits and 12% pull requests."></a>
 
+<a href="https://github.com/aashirhaq?tab=overview&amp;from=2016-12-01&amp;to=2016-12-31"><img src="contribution-history.png" width="100%" alt="8,773 GitHub contributions across 11 calendar years, 2016 through November 9, 2026. Peak year: 1,791 in 2022. Annual counts: 2016: 1, 2017: 6, 2018: 6, 2019: 562, 2020: 1020, 2021: 933, 2022: 1791, 2023: 1433, 2024: 1109, 2025: 741, 2026: 1171."></a>
+
 <p><a href="https://aashirhaq.github.io/projects/payment-orchestration/"><img src="project-payments.png" width="49%" alt="Payment orchestration · 10+ gateways"></a>
 <a href="https://www.youtube.com/@LittleMuslimsCorner"><img src="project-studio.png" width="49%" alt="Little Ummah Studio · Watch the series"></a></p>
 
