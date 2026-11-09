@@ -4,7 +4,7 @@
 <a href="mailto:aashirulhaque@gmail.com"><img src="button-email.png" width="128" alt="Email"></a>
 <a href="https://www.linkedin.com/in/aashirhaq/details/featured/"><img src="button-demo.png" width="128" alt="Agent demo"></a></p>
 
-<img src="profile-overview.png" width="100%" alt="Aashir Haque, senior software engineer in backend systems and agentic AI. 6+ years, Chicago area. Golootlo production scale: 35K+ daily subscription transactions, 500K+ monthly background jobs, 60K+ peak concurrent users.">
+<img src="engineering-impact.png" width="100%" alt="Aashir Haque, senior software engineer in backend systems and agentic AI. 6+ years, Chicago area. Golootlo production impact: 35K+ daily subscription transactions, 50% lower database load after caching and query optimization, 60K+ peak concurrent users.">
 
 <a href="https://github.com/aashirhaq#js-contribution-activity-description"><img src="github-activity.png" width="100%" alt="GitHub activity, year ending November 9, 2026. 1,238 contributions across 66 repositories. 88% commits and 12% pull requests."></a>
 
